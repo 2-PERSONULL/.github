@@ -135,6 +135,8 @@
 
 # 9. 트러블 슈팅
 
+![trs](https://github.com/2-PERSONULL/.github/blob/main/assets/trs.png)
+![trs](https://github.com/2-PERSONULL/.github/blob/main/assets/trs2.png)
 <br />
 
 # 10. 개선 목표
