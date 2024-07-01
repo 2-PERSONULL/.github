@@ -1,12 +1,33 @@
-## Hi there 👋
+# My Fashion Coordinator 맞춤 코디네이팅 추천 플랫폼
 
-<!--
+<br />
+<br />
 
-**Here are some ideas to get you started:**
+- 배포 URL : https://myfaco.site
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 목차
+1. [프로젝트 개요](#1-프로젝트-개요)
+2. [팀원 구성](#2-팀원-구성)
+3. [시스템 아키텍처](#3-시스템-아키텍처)
+4. [기술 스택](#4-기술-스택)
+5. [협업](#5-협업)
+6. [ERD](#6-ERD)
+7. [역할 분담](#7-역할-분담)
+8. [구현 기능](#8-구현-기능)
+9. [트러블 슈팅](#9-트러블-슈팅)
+10. [개선 목표](#10-개선-목표)
+11. [프로젝트 후기](#11-프로젝트-후기)
+
+<br />
+
+# 1. 프로젝트 개요
+### 개발 기간
+- 전체 기간 : 2024.04.18 ~ 2024.07.02
+- 서비스 분석 및 설계 : 2024.04.18 ~ 2024.04.30
+- UI 및 기능 개발 : 2024.05.02 ~ 2024.07.02
+
+### 목표
+- 옷 입기가 어려운 일반인과 옷 입는 것에 자신 있는 사람을 매칭해주는 중개 플랫폼 개발
+- 온라인으로 코디를 진행하여 시간과 장소에 관계 없이 코디 진행 가능
+- 파트너는 남는 시간에 코디를 진행하고 소소한 부업, 유저는 커피 한잔 가격으로 코디 고민 해결!
+
