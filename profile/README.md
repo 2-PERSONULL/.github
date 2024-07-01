@@ -42,3 +42,122 @@
 
 <br />
 
+# 3. 시스템 아키텍처
+
+
+<br />
+
+# 4. 기술 스택
+
+## 💻 IDE
+
+![VSCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+## 📱 Frontend
+![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white) 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+
+
+## 💾 Backend
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Querydsl](https://img.shields.io/badge/Querydsl-007ACC?style=for-the-badge&logo=Querydsl&logoColor=white)
+
+
+## 🔃 DevOPS
+
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+
+
+<br />
+
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
+# 5. 협업
+
+<br />
+
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
+# 6. ERD
+
+<br />
+
+# 7. 역할 분담
+
+### 🌗Frontend
+ - #### 황성철
+ 	- 
+ - #### 서여진
+ 	- 
+
+
+### 🌓Backend
+ - #### 정예진
+ 	- 
+
+ - #### 박진영
+ 	- 
+
+ - #### 김관호
+ 	- 
+<br />
+
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
+# 8. 구현 기능
+
+<br />
+
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
+# 9. 트러블 슈팅
+
+<br />
+
+# 10. 개선 목표
+
+<br />
+
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
+# 11. 프로젝트 후기
+### 🦕 정예진
+
+### 🦖 박진영
+
+### 💚 황성철
+
+### 🌱 서여진
+
+<br />
+
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
