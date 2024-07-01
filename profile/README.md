@@ -43,7 +43,7 @@
 <br />
 
 # 3. 시스템 아키텍처
-
+![sa](https://github.com/2-PERSONULL/.github/blob/main/assets/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-07-01%20163230.png)
 
 <br />
 
@@ -111,7 +111,8 @@
  	- 
 
  - #### 박진영
- 	- 
+ 	- 코디네이팅 서비스 개발
+  - 결제 서비스 개발
 
  - #### 김관호
  	- 
