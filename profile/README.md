@@ -93,6 +93,8 @@
 
 # 6. ERD
 
+![erd](https://github.com/2-PERSONULL/.github/blob/main/assets/capture.png)
+
 <br />
 
 # 7. 역할 분담
