@@ -132,27 +132,27 @@
 
 # 8. 구현 기능
 
-<br />
+<br /> 
 
 <strong>[회원가입]</strong>
 - Funnel 구조를 참고하여 개발하였습니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/MFC 회원가입-1.gif">
 
-<br />
+<br /> 
 
 <strong>[홈화면]</strong>
 - 로그인하지 않은 경우 인기 파트너 게시물을 랜덤으로 보여줍니다.
 - 로그인한 경우 유저가 팔오우한 파트너의 게시물을 보여줍니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc.png">
 
-<br />
+<br /> 
 
 <strong>[파트너 랭킹]</strong>
 - 1시간 단위로 집계하여 실시간 파트너 랭킹을 보여줍니다.
 - 팔로워 수, 코디 매칭 수, 리뷰 평점 항목 각각에 가중치를 부여하여 집계하였습니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc2.png">
 
-<br />
+<br /> 
 
 <strong>[탐색 및 검색]</strong>
 - 파트너의 스타일 피드를 무한스크롤로 구현하였습니다.
@@ -161,7 +161,7 @@
 - 특정 스타일 게시물을 좋아요할 수 있습니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc3.png">
 
-<br />
+<br /> 
 
 <strong>[파트너 프로필 조회]</strong>
 - 파트너 프로필에 들어가 스타일 피드와 상세정보를 조회할 수 있습니다.
@@ -169,20 +169,20 @@
 - 상세정보를 확인 후 특정 파트너에게 코디요청을 할 수 있습니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/assets/73014511/e0846901-43a3-45c2-8d46-844e19d9b842">
 
-<br />
+<br /> 
 
 <strong>[코디 요청서 작성]</strong>
 - 선호브랜드, 코디상황, 옵션, 예산 등의 정보를 담아 코디 요청서를 작성할 수 있습니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/assets/73014511/db514d6c-148c-40a8-836e-a66f75e2e421">
 
-<br />
+<br /> 
 
 <strong>[유저 체형정보 입력]</strong>
 - 유저의 프로필에 미리 체형, 사이즈, 선호 스타일 정보를 등록할 수 있고
 - 코디 요청 시 해당 정보가 파트너에게 함께 전달됩니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/assets/73014511/c4024906-d816-4d1c-8279-a81405a6d354">
 
-<br />
+<br /> 
 
 <strong>[코디 요청서 조회(파트너)]</strong>
 - 유저가 요청한 코디 요청서를 조회할 수 있습니다.
@@ -190,7 +190,7 @@
 <img width="240" src="https://github.com/2-PERSONULL/.github/assets/73014511/77a8ad93-867b-4790-b60f-da4afcac0977">
 <img width="240" src="https://github.com/2-PERSONULL/.github/assets/73014511/223f2cd9-24c2-46f2-a4ef-abcefd512485">
 
-<br />
+<br /> 
 
 <strong>[채팅]</strong>
 - 파트너가 요청서를 수락하면 채팅방이 생성됩니다.
@@ -199,7 +199,7 @@
 <img width="240" src="https://github.com/2-PERSONULL/.github/assets/73014511/0c99dfd8-ac27-43a0-84a9-29ab59e47876">
 <img width="240" src="https://github.com/2-PERSONULL/.github/assets/73014511/5994c3de-5d4c-4d74-bda8-63670c9b4e33">
 
-<br />
+<br /> 
 
 <strong>[스타일 가이드 조회]</strong>
 - 파트너가 전달한 스타일 가이드를 조회할 수 있습니다.
