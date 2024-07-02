@@ -1,7 +1,6 @@
 # My Fashion Coordinator 맞춤 코디네이팅 추천 플랫폼
 ![Group 265 (1)](https://github.com/2-PERSONULL/.github/assets/73014511/07c126d0-3751-4dc6-8d3f-70aa266e3db9)
 
-<img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc.png"><img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc2.png"><img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc3.png"><img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc4.png">
 
 - 배포 URL : https://myfaco.site
 
@@ -56,14 +55,14 @@
 ## 📱 Frontend
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white) 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/zustand-3578E5?style=for-the-badge&logo=zustand&logoColor=white">
 <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 
 
 ## 💾 Backend
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
- ![Querydsl](https://img.shields.io/badge/Querydsl-007ACC?style=for-the-badge&logo=Querydsl&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-007396?style=for-the-badge&logo=Kafka&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-007ACC?style=for-the-badge&logo=MongoDB&logoColor=white)
+ ![Querydsl](https://img.shields.io/badge/Querydsl-007ACC?style=for-the-badge&logo=Querydsl&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-007396?style=for-the-badge&logo=Kafka&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-007ACC?style=for-the-badge&logo=MongoDB&logoColor=white) 
 
 ## 🔃 DevOPS
 
@@ -132,6 +131,28 @@
 # 8. 구현 기능
 
 <br />
+
+<strong>[홈화면]</strong>
+- 로그인하지 않은 경우 인기 파트너 게시물을 랜덤으로 보여줍니다.
+- 로그인한 경우 유저가 팔오우한 파트너의 게시물을 보여줍니다.
+<img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc.png">
+
+<strong>[파트너 랭킹]</strong>
+- 1시간 단위로 집계하여 실시간 파트너 랭킹을 보여줍니다.
+- 팔로워 수, 코디 매칭 수, 리뷰 평점 항목 각각에 가중치를 부여하여 집계하였습니다.
+<img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc2.png">
+
+<b>[탐색 및 검색]</b>
+- 파트너의 스타일 피드를 무한스크롤로 구현하였습니다.
+- 파트너가 지정한 선호스타일을 기준으로 카테고리별 조회가 가능합니다.
+- 스타일 태그를 통해 검색을 할 수 있습니다.
+<img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc3.png">
+
+<b>[스타일 가이드 조회]</b>
+- 파트너가 전달한 스타일 가이드를 조회할 수 있습니다.
+- 파트너가 첨부한 구매링크로 바로 이동이 가능합니다.
+<img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc4.png">
+
 
 <div align="right">
   
