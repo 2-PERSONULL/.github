@@ -1,4 +1,6 @@
 # My Fashion Coordinator 맞춤 코디네이팅 추천 플랫폼
+![Group 265 (1)](https://github.com/2-PERSONULL/.github/assets/73014511/07c126d0-3751-4dc6-8d3f-70aa266e3db9)
+
 <img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc.png"><img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc2.png"><img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc3.png"><img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc4.png">
 
 - 배포 URL : https://myfaco.site
