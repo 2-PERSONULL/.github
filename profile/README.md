@@ -143,6 +143,8 @@
 
 ![trs](https://github.com/2-PERSONULL/.github/blob/main/assets/trs.png)
 ![trs](https://github.com/2-PERSONULL/.github/blob/main/assets/trs2.png)
+![trs](https://github.com/2-PERSONULL/.github/blob/main/assets/trouble-batch.png)
+![trs](https://github.com/2-PERSONULL/.github/blob/main/assets/trouble-batch(2).png)
 <br />
 
 # 10. 개선 목표
@@ -168,8 +170,7 @@
  
  - **목적**: 사용자 경험 개선 및 검색 정확도/속도 향상
  - **계획**:
-   - 고급 검색 필터 추가
-   - 자연어 처리(NLP) 기반 검색 엔진 도입
+   - elastic search 도입
    - 검색 결과 개인화 기능 구현
    - 검색 성능 최적화 (인덱싱, 캐싱 등)
 
