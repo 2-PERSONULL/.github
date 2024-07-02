@@ -134,12 +134,18 @@
 
 <br />
 
-<strong>[홈화면]</strong>
+
+<b>[회원가입]</b>
+- Funnel 구조를 참고하여 개발하였습니다.
+<img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/MFC 회원가입-1.gif">
+
+
+<b>[홈화면]</b>
 - 로그인하지 않은 경우 인기 파트너 게시물을 랜덤으로 보여줍니다.
 - 로그인한 경우 유저가 팔오우한 파트너의 게시물을 보여줍니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc.png">
 
-<strong>[파트너 랭킹]</strong>
+<b>[파트너 랭킹]</b>
 - 1시간 단위로 집계하여 실시간 파트너 랭킹을 보여줍니다.
 - 팔로워 수, 코디 매칭 수, 리뷰 평점 항목 각각에 가중치를 부여하여 집계하였습니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc2.png">
@@ -194,7 +200,6 @@
 - 파트너가 전달한 스타일 가이드를 조회할 수 있습니다.
 - 파트너가 첨부한 구매링크로 바로 이동이 가능합니다.
 <img width="240" src="https://github.com/2-PERSONULL/.github/blob/main/assets/mfc4.png">
-
 
 <div align="right">
   
